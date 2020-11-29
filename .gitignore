@@ -4,6 +4,8 @@
 !.gitignore
 !qr.py
 
+!index.html
+
 !img
 !img/qr.png
 
